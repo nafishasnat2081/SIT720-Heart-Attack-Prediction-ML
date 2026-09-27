@@ -20,7 +20,7 @@ The proposed framework integrates:
 
 ## Folder Structure
 
-```text
+
 SIT720_11_1HD_Heart_Attack_Prediction_Project
 
 │
