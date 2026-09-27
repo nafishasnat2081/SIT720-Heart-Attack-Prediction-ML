@@ -39,6 +39,19 @@ SIT720_11_1HD_Heart_Attack_Prediction_Project
 ```
 
 
+## Project Resources
+
+GitHub Repository:
+
+https://github.com/nafishasnat2081/SIT720-Heart-Attack-Prediction-ML
+
+
+Presentation Video:
+
+https://youtu.be/PWXu9QFd00E
+
+
+
 ## Software Requirements
 
 The project was developed using Python and Google Colab.
