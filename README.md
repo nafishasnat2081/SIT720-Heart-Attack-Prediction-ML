@@ -20,9 +20,8 @@ The proposed framework integrates:
 
 ## Folder Structure
 
-
+```text
 SIT720_11_1HD_Heart_Attack_Prediction_Project
-
 │
 ├── Presentation Slide
 │   └── Final presentation slides
@@ -40,6 +39,7 @@ SIT720_11_1HD_Heart_Attack_Prediction_Project
 │   └── Final technical report
 │
 └── README.md
+```
 
 ## Project Resources
 
